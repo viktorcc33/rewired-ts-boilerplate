@@ -54,7 +54,7 @@
     "ts-loader": "^3.5.0",
     "typescript": "2.7.1",
     "typescript-eslint-parser": "^14.0.0",
-    "webpack-bundle-analyzer": "^2.11.1",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-runtime-analyzer": "^1.5.0"
   }
 }
